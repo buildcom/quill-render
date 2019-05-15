@@ -1,0 +1,4 @@
+requireTitle: true
+requireCommits: 'test'
+requirePrBreakingChangeColon: true
+requireCommitBreakingChangeColon: true
